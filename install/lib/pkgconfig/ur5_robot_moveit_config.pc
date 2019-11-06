@@ -1,0 +1,8 @@
+prefix=/home/abhinandan/Misc/Intro to Robotics/ros_wkspace_asgn4/install
+
+Name: ur5_robot_moveit_config
+Description: Description of ur5_robot_moveit_config
+Version: 0.3.0
+Cflags: 
+Libs: -L/home/abhinandan/Misc/Intro to Robotics/ros_wkspace_asgn4/install/lib 
+Requires: 

@@ -1,0 +1,8 @@
+prefix=/home/abhinandan/Misc/Intro to Robotics/ros_wkspace_asgn4/install
+
+Name: ur_description
+Description: Description of ur_description
+Version: 1.2.0
+Cflags: 
+Libs: -L/home/abhinandan/Misc/Intro to Robotics/ros_wkspace_asgn4/install/lib 
+Requires: 

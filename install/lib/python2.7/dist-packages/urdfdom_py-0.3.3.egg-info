@@ -1,0 +1,10 @@
+Metadata-Version: 1.0
+Name: urdfdom_py
+Version: 0.3.3
+Summary: Python implementation of the URDF parser.
+Home-page: http://wiki.ros.org/urdfdom_py
+Author: Chris Lalancette <clalancette@osrfoundation.org>, Shane Loretz <sloretz@osrfoundation.org>
+Author-email: UNKNOWN
+License: BSD
+Description: UNKNOWN
+Platform: UNKNOWN
